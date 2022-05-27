@@ -1,6 +1,5 @@
 {
   "name": "frontend",
-  "homepage": "https://bayustrio.github.io/crud-typescript",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
